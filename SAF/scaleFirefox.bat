@@ -1,1 +1,0 @@
-docker-compose scale firefox=5
